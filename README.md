@@ -23,7 +23,3 @@ I am a passionate Software Developer with experience in developing web applicati
 <img align="left" alt="AWS" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" />
 <br />
 
-
-
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40px'>](https://github.com/iskren97)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40px'>](https://www.linkedin.com/in/https://www.linkedin.com/in/iskrengyorev//) 
