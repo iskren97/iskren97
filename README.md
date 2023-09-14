@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Iskren Gyorev
 #### Software Developer
-![Software Developer](https://github.com/iskren97/iskren97/blob/main/banner.PNG)
+## ![Software Developer](https://github.com/iskren97/iskren97/blob/main/banner.PNG)
 
 I am a passionate Software Developer with experience in developing web applications. I enjoy working with modern technologies and frameworks. I'm always exploring new frameworks, libraries, and design trends to stay at the forefront of web development.
 
