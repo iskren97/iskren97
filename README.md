@@ -1,4 +1,4 @@
-# Iskren Gyorev 👩🏻‍💻
+# Iskren Gyorev 💻
 
 ## Software Developer
 
